@@ -19,7 +19,7 @@ git init
 git add .
 git commit -m "feat: initial GitRep — AI-powered GitHub scraper"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/GitRep.git
+git remote add origin https://github.com/kushagra486/GitRep.git
 git push -u origin main
 ```
 

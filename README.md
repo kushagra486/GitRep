@@ -36,7 +36,7 @@ Tailwind CSS  →  Styling
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/GitRep.git
+git clone https://github.com/kushagra486/GitRep.git
 cd GitRep
 npm install
 ```
@@ -86,7 +86,7 @@ Open [http://localhost:3000](http://localhost:3000) 🚀
 
 ### One-click Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/GitRep)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/kushagra486/GitRep)
 
 ### Manual
 
